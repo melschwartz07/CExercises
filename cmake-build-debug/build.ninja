@@ -46,8 +46,8 @@ cmake_ninja_workdir = /Users/melanieschwartz/CLionProjects/Cexercises/cmake-buil
 
 build cmake_object_order_depends_target_Cexercises: phony || CMakeFiles/Cexercises.dir
 
-build CMakeFiles/Cexercises.dir/ordinalVal.c.o: C_COMPILER__Cexercises_Debug /Users/melanieschwartz/CLionProjects/Cexercises/ordinalVal.c || cmake_object_order_depends_target_Cexercises
-  DEP_FILE = CMakeFiles/Cexercises.dir/ordinalVal.c.o.d
+build CMakeFiles/Cexercises.dir/centerText.c.o: C_COMPILER__Cexercises_Debug /Users/melanieschwartz/CLionProjects/Cexercises/centerText.c || cmake_object_order_depends_target_Cexercises
+  DEP_FILE = CMakeFiles/Cexercises.dir/centerText.c.o.d
   FLAGS = -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
   OBJECT_DIR = CMakeFiles/Cexercises.dir
   OBJECT_FILE_DIR = CMakeFiles/Cexercises.dir
@@ -60,7 +60,7 @@ build CMakeFiles/Cexercises.dir/ordinalVal.c.o: C_COMPILER__Cexercises_Debug /Us
 #############################################
 # Link the executable Cexercises
 
-build Cexercises: C_EXECUTABLE_LINKER__Cexercises_Debug CMakeFiles/Cexercises.dir/ordinalVal.c.o
+build Cexercises: C_EXECUTABLE_LINKER__Cexercises_Debug CMakeFiles/Cexercises.dir/centerText.c.o
   FLAGS = -g -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk
   OBJECT_DIR = CMakeFiles/Cexercises.dir
   POST_BUILD = :
