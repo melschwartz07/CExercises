@@ -1,0 +1,3 @@
+/Users/melanieschwartz/CLionProjects/Cexercises/cmake-build-debug/CMakeFiles/Cexercises.dir
+/Users/melanieschwartz/CLionProjects/Cexercises/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/melanieschwartz/CLionProjects/Cexercises/cmake-build-debug/CMakeFiles/rebuild_cache.dir
