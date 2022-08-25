@@ -2,7 +2,9 @@
 0	248	1661122967117306132	CMakeFiles/Cexercises.dir/main.c.o	42b1c645634586b1
 0	255	1661123191760673860	CMakeFiles/Cexercises.dir/ordinalVal.c.o	4b19cdd35a0c9e9a
 2	275	1661123872431098827	CMakeFiles/Cexercises.dir/centerText.c.o	9f13a950d296975c
-182	244	1661213194023089596	Cexercises	e71c95a4188a2aa0
 0	278	1661125100970872700	CMakeFiles/Cexercises.dir/makeChange.c.o	d0164aad3891767d
+182	244	1661213194023089596	Cexercises	e71c95a4188a2aa0
 0	268	1661212488384000155	CMakeFiles/Cexercises.dir/hailSeq.c.o	b4f47045e60c796e
 0	182	1661213193959457538	CMakeFiles/Cexercises.dir/perfShuffle.c.o	e4f267223116cd69
+0	264	1661455942984219632	CMakeFiles/Cexercises.dir/minutesConversion.c.o	4ffeb8a27558138b
+264	677	1661455943398345077	Cexercises	5302920579ecf84b
