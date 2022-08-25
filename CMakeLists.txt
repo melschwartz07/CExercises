@@ -3,4 +3,4 @@ project(Cexercises C)
 
 set(CMAKE_C_STANDARD 17)
 
-add_executable(Cexercises embeddedC.c)
+add_executable(Cexercises main.c)

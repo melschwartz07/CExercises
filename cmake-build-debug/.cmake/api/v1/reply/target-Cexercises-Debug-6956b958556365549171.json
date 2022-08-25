@@ -91,7 +91,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "embeddedC.c",
+			"path" : "main.c",
 			"sourceGroupIndex" : 0
 		}
 	],
